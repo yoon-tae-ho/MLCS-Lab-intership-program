@@ -1,1 +1,6 @@
 .DS_Store
+
+basic_python_programming/001_CSV/datasets/
+basic_python_programming/001_CSV/outputs/
+
+basic_python_programming/002_Numpy/dataset.npz
