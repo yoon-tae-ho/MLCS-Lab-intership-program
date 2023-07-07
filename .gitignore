@@ -1,6 +1,11 @@
 .DS_Store
+.vscode/
 
 basic_python_programming/001_CSV/datasets/
 basic_python_programming/001_CSV/outputs/
 
 basic_python_programming/002_Numpy/dataset.npz
+
+basic_python_programming/003_OpenCV/*.jpg
+basic_python_programming/003_OpenCV/*.png
+basic_python_programming/003_OpenCV/*.dat
