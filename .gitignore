@@ -9,3 +9,5 @@ basic_python_programming/002_Numpy/dataset.npz
 basic_python_programming/003_OpenCV/*.jpg
 basic_python_programming/003_OpenCV/*.png
 basic_python_programming/003_OpenCV/*.dat
+
+basic_python_programming/004_Custom_Dataset/datasets/
