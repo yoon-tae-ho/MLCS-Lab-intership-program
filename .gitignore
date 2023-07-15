@@ -14,3 +14,5 @@ basic_python_programming/004_Custom_Dataset/datasets/
 
 neural_networks/001_MLP/datasets/
 neural_networks/001_MLP/*.pdf
+
+neural_networks/002_CNN/*.pdf
