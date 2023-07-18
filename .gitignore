@@ -16,3 +16,5 @@ neural_networks/001_MLP/datasets/
 neural_networks/001_MLP/*.pdf
 
 neural_networks/002_CNN/*.pdf
+
+neural_networks/003_RNN&Regression/*.pdf
